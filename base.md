@@ -53,11 +53,11 @@ Determines how much physical damage the entity can take. This is defined as foll
 #### Attack target
 Determines how easy or difficult it is to hit the character with a physical attack. To determine this stat, consult the Agility and Awareness scores. Add them up using the following reference values:
 
-* High: +2
+* High: +4
 * Average: 0
-* Low: -2
+* Low: -4
 
-Take 10 and add the values of both abilities. The result is the base number someone needs to roll (or higher) to hit the entity with a physical attack. For example, a player character with high agility and average awareness would have 2 + 0 + 10 = 12 or more to be hit.
+Take 8 and add the values of both abilities. The result is the base number someone needs to roll (or higher) to hit the entity with a physical attack. For example, a player character with high agility and average awareness would have 4 + 0 + 8 = 12 or more to be hit.
 
 ## Base mechanics
 All attempts at performing an action will be performed against a target number from 1 to 20. The higher the number, the more difficult the action is.
