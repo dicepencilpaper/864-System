@@ -7,6 +7,32 @@ An entity is defined as a player character, non-player character, monster, creat
 ### Stats
 Entities will have one or more stats that will be displayed as bonuses or penalties. Considering that on a scale from 3 to 18 every increase or decrease represents 6.25%, it is suggested that abilities run the gamut from -5 to +5. Abilities can be set up as physical descriptions (strength, agility, intellect) and skill-like (forgery, metalsmith, handguns).
 
+#### Strength
+Measures raw physical strength and power.
+
+#### Agility
+Measures physical nimbleness.
+
+#### Dexterity
+Measures hand-to-eye coordination and precise handiwork.
+
+#### Endurance
+Measures toughness and resistance to damage.
+
+#### Acumen
+Measures the ability for reasoning and understanding.
+
+#### Tenacity
+Measures the entity's mental strength and resilience.
+
+#### Awareness
+Determines how "in-tune" the entity is to their surroundings.
+
+### Secondary stats
+There are additional stats based off the base stats.
+
+#### 
+
 ## Base mechanics
 All attempts at performing an action will have one of three ratings: easy, medium, and hard. These ratings determine which dice will be used by whoever is performing the action.
 
