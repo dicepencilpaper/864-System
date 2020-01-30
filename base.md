@@ -5,11 +5,13 @@ The 864 is a simplified tabletop role-playing system uses the d8, d6, and d4 dic
 An entity is defined as a player character, non-player character, monster, creature, or any other sentient or semi-sentient inhabitant of the adventure world, basically anything that can be considered alive (or pseudo-alive, like undead creatures).
 
 ### Abilities
-Abilities define global characteristics of any sentient or semi-sentient entity. These are defined by how many dice are rolled when using them, and have three levels:
+Abilities define global characteristics of any sentient or semi-sentient entity. These are defined by how many dice are rolled when using them, and have three levels for measuring how capable the entity is in that area.
 
-* High: d8 + d6 + d4
-* Average: d8 + d6
-* Low: d8
+| Rating  | Dice         | 
+|---------|--------------|
+| High    | d8 + d6 + d4 |
+| Average | d8 + d6      |
+| Low     | d8           |
 
 Since there are only three levels per each ability, the initial recommendation is to have multiple abilities used in the entity definition so that a lot of ground can be covered and compensate for the somwhat simple ability measurement system. These are some proposed abilities:
 
@@ -40,32 +42,40 @@ There are other stats that are needed to round out the basic description for an 
 #### Physical resistance
 Determines how much physical damage the entity can take. This is defined as follows, based on the Endurance ability:
 
-* High: 6
-* Average: 4
-* Low: 2
+| Rating  | Score | 
+|---------|-------|
+| High    | 6     |
+| Average | 4     |
+| Low     | 2     |
 
 #### Mental resistance
 Determines how much physical damage the entity can take. This is defined as follows, based on the Tenacity ability:
 
-* High: 6
-* Average: 4
-* Low: 2
+| Rating  | Score | 
+|---------|-------|
+| High    | 6     |
+| Average | 4     |
+| Low     | 2     |
 
 #### Physical attack target
 Determines how easy or difficult it is to hit the entity with a physical attack. To determine this stat, consult the Agility and Awareness scores. Add them up using the following reference values:
 
-* High: +4
-* Average: 0
-* Low: -4
+| Rating  | Modifier | 
+|---------|----------|
+| High    | +4       |
+| Average | 0        |
+| Low     | -4       |
 
 Take 8 and add the values of both abilities. The result is the base number someone needs to roll (or higher) to hit the entity with a physical attack. For example, a player character with high agility and average awareness would have 4 + 0 + 8 = 12 or more to be hit.
 
 #### Mental attack target
 Determines how easy or difficult it is to hit the entity with a mental/psych attack. To determine this stat, consult the Agility and Awareness scores. Add them up using the following reference values:
 
-* High: +4
-* Average: 0
-* Low: -4
+| Rating  | Modifier | 
+|---------|----------|
+| High    | +4       |
+| Average | 0        |
+| Low     | -4       |
 
 Take 8 and add the values of both abilities. The result is the base number someone needs to roll (or higher) to hit the entity with a physical attack. For example, a player character with high agility and average awareness would have 4 + 0 + 8 = 12 or more to be hit.
 
