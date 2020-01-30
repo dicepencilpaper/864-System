@@ -1,6 +1,4 @@
-# 864-System
-Base engine for the 864 tabletop RPG system.
-
+# 864 System - An open source tabletop RPG
 Welcome to the home of the 864 System project, an open-source tabletop role-playing game system!
 
 Based on a random thought by halfminofarmer (@john_errwin), and a short but interesting discussion with Saice Shoop (@SaiceShoop), I decided to document the ideas being thrown around for using a d8/d6/d4 system as a replacement for 3d6.
@@ -13,3 +11,5 @@ The base idea is that entities have abilities or skills that have three ratings:
 Nothing is final in the system for now, and it’s open to contribution from anyone that might want to be part of this. This is a non-profit, open project, that will explore the possibilities in this simple yet elegant system as we create, define, and shape it into a complete ruleset.
 
 In its open-source spirit, feel free to create an account here and create your own branch and documents!
+
+_-- Kerc_
