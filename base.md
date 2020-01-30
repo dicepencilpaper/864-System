@@ -16,10 +16,10 @@ Abilities define global characteristics of any sentient or semi-sentient entity.
 Since there are only three levels per each ability, the initial recommendation is to have multiple abilities used in the entity definition so that a lot of ground can be covered and compensate for the somwhat simple ability measurement system. These are some proposed abilities:
 
 #### Acumen (ACU)
-Measures the ability for reasoning and understanding. This determines how many skills an entity can know.
+Measures the ability for reasoning and understanding, and for things such as investigation and research. This determines how many skills an entity can know.
 
 #### Agility (AGI)
-Measures physical nimbleness. This helps to avoid being hit by physical attacks, in conjunction with Awareness.
+Measures physical nimbleness. This helps to avoid being hit by physical attacks, in conjunction with Awareness. It is used when the entity is trying to perform complex physical moves like parkour.
 
 #### Awareness (AWA)
 Determines how "in-tune" the entity is to their surroundings. This, with Agility, determines how hard it is to hit the entity.
