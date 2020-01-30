@@ -1,5 +1,7 @@
 # 864 System - An open source tabletop RPG
-Welcome to the home of the 864 System project, an open-source tabletop role-playing game system!
+**Welcome to the home of the 864 System project, an open-source tabletop role-playing game system!**
+
+<img src="https://github.com/dicepencilpaper/864-System/blob/master/864_400w.jpg" />
 
 Based on a random thought by halfminofarmer (@john_errwin), and a short but interesting discussion with Saice Shoop (@SaiceShoop), I decided to document the ideas being thrown around for using a d8/d6/d4 system as a replacement for 3d6.
 
