@@ -12,4 +12,4 @@ The base idea is that entities have abilities or skills that have three ratings:
 
 Nothing is final in the system for now, and it’s open to contribution from anyone that might want to be part of this. This is a non-profit, open project, that will explore the possibilities in this simple yet elegant system as we create, define, and shape it into a complete ruleset.
 
-In its open-source spirit, we have a GitHub repository with the documents. Feel free to create an account there and create your own branch and documents!
+In its open-source spirit, feel free to create an account here and create your own branch and documents!
