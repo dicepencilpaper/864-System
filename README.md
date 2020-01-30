@@ -1,0 +1,15 @@
+# 864-System
+Base engine for the 864 tabletop RPG system.
+
+Welcome to the home of the 864 System project, an open-source tabletop role-playing game system!
+
+Based on a random thought by halfminofarmer (@john_errwin), and a short but interesting discussion with Saice Shoop (@SaiceShoop), I decided to document the ideas being thrown around for using a d8/d6/d4 system as a replacement for 3d6.
+
+This sparked the creation of what is called the 864 System, a set of simple RPG mechanics. The concept of adding and removing dice from actions appeals to me as an elegant mechanism. In the 864 System, the curve of probability changes dramatically as you lose or add dice.
+
+
+The base idea is that entities have abilities or skills that have three ratings: high, average, or low. A high ability rolls d8 + d6 + d4. Average, d8 + d6. Low, rolls only a d8. These are rolled against a target number from 1 to 20.
+
+Nothing is final in the system for now, and it’s open to contribution from anyone that might want to be part of this. This is a non-profit, open project, that will explore the possibilities in this simple yet elegant system as we create, define, and shape it into a complete ruleset.
+
+In its open-source spirit, we have a GitHub repository with the documents. Feel free to create an account there and create your own branch and documents!
