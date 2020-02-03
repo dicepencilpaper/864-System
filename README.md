@@ -1,6 +1,6 @@
 # The 864 Hack - My version of the 864 System
 
-As an open source tabletop RPG, I was intrigued by this idea when I saw the discussion on Twitter. This fork of Kerc's original reflects my ideas. To track changes, I have added a change log file.
+As an open source tabletop RPG, I was intrigued by this idea when I saw the discussion on Twitter. This fork of Kerc's original reflects my ideas. To track changes, I have added a [changelog](https://github.com/sycarion/864-System/blob/master/Changelog.md) file.
 
 ## 864 System - An open source tabletop RPG
 
