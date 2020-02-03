@@ -1,4 +1,13 @@
-# 864 System - An open source tabletop RPG
+# The 864 Hack - My version of the 864 System
+
+As an open source tabletop RPG, I was intrigued by this idea when I saw the discussion on Twitter. This fork of Kerc's original reflects my idea
+
+Changelog:
+
+
+
+## 864 System - An open source tabletop RPG
+
 **Welcome to the home of the 864 System project, an open-source tabletop role-playing game system!**
 
 <img src="https://github.com/dicepencilpaper/864-System/blob/master/864_400w.jpg" />
