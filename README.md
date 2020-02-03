@@ -1,10 +1,6 @@
 # The 864 Hack - My version of the 864 System
 
-As an open source tabletop RPG, I was intrigued by this idea when I saw the discussion on Twitter. This fork of Kerc's original reflects my idea
-
-Changelog:
-
-
+As an open source tabletop RPG, I was intrigued by this idea when I saw the discussion on Twitter. This fork of Kerc's original reflects my ideas. To track changes, I have added a change log file.
 
 ## 864 System - An open source tabletop RPG
 
