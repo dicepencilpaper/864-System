@@ -8,6 +8,8 @@
 
 2020-02-03: Created m864, a microlite version of the 864 system using 4 abilities.
 
+2020-02-03: Added Ability Modifiers as a separate section to make determining Additional Abilities easier and to create variation in entities.
+
 2020-02-04: Added placeholders for Talents and Skills for m864
 
 ## Game Element Changes
