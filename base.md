@@ -79,5 +79,35 @@ Determines how much physical damage the entity can take. This is defined as foll
 | Average | 4     |
 | Low     | 2     |
 
+## Creating a player character
+
+### Abilities
+There are different systems for generating a player character's abilities.
+
+#### Direct assignment
+Each player character will have two high, three average, and two low abilities. The player gets to assign these scores to their character abilities as desired.
+
+#### Random assignment
+The player rolls d864 for each ability, and then consults the table below:
+
+| Roll  | Rating  | 
+|-------|---------|
+| 3-5   | Low     |
+| 6-14  | Average |
+| 15-18 | High    |
+
+To make it even more random, after rolling an ability rating, the player can roll 1d8 to determine the ability to be set, based on this table:
+
+| Roll | Ability       | 
+|------|---------------|
+| 1    | Acumen        |
+| 2    | Agility       |
+| 3    | Awareness     |
+| 4    | Dexterity     |
+| 5    | Endurance     |
+| 6    | Strength      |
+| 7    | Tenacity      |
+| 8    | Player choice |
+
 ## Base mechanics
 All attempts at performing an action will be performed against a target number from 1 to 20. The higher the number, the more difficult the action is.
