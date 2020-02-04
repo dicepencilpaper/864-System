@@ -92,9 +92,9 @@ The player rolls d864 for each ability, and then consults the table below:
 
 | Roll  | Rating  | 
 |-------|---------|
-| 3-5   | Low     |
-| 6-14  | Average |
-| 15-18 | High    |
+| 3-6   | Low     |
+| 7-13  | Average |
+| 14-18 | High    |
 
 To make it even more random, after rolling an ability rating, the player can roll 1d8 to determine the ability to be set, based on this table:
 
@@ -108,6 +108,28 @@ To make it even more random, after rolling an ability rating, the player can rol
 | 6    | Strength      |
 | 7    | Tenacity      |
 | 8    | Player choice |
+
+### Creating a player character
+
+Let's create a player character using the random process. First, we will roll the ability ratings by rolling d864 7 times.
+
+* 10 - Average
+* 14 - High
+* 8 - Average
+* 8 - Average
+* 11 - Average
+* 10 - Average
+* 5 - Low
+
+Now we roll 1d8 to assign the ability ratings, starting from the first one:
+
+* Tenacity - Average
+* Dexterity - High
+* Agility - Average
+* Strength - Average
+* Awareness - Average
+* Endurance - Average
+* Acumen - Low
 
 ## Base mechanics
 All attempts at performing an action will be performed against a target number from 1 to 20. The higher the number, the more difficult the action is.
