@@ -12,9 +12,14 @@
 
 2020-02-04: Added placeholders for Talents and Skills for m864
 
+2020-02-04: Finalized Abilities, Skills.
+
+2020-02-04: Added Talents
+
 ## Game Element Changes
 
 These changes will group changes around a specific game element. For example, all the Skill System changes will be under a heading named **Skill System** while magic would be under the **Magic** heading.
 
+Magic
 
-
+Added talents for Magic like Peltifer (protection magic), Fire Magic, Conjurer, and Alchemist.
