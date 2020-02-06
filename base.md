@@ -93,8 +93,8 @@ The player rolls d864 for each ability, and then consults the table below:
 | Roll  | Rating  | 
 |-------|---------|
 | 3-6   | Low     |
-| 7-13  | Average |
-| 14-18 | High    |
+| 7-12  | Average |
+| 13-18 | High    |
 
 To make it even more random, after rolling an ability rating, the player can roll 1d8 to determine the ability to be set, based on this table:
 
@@ -132,4 +132,21 @@ Now we roll 1d8 to assign the ability ratings, starting from the first one:
 * Acumen - Low
 
 ## Base mechanics
-All attempts at performing an action will be performed against a target number from 1 to 20. The higher the number, the more difficult the action is.
+All attempts at performing an action will be performed against a target number from 1 to 20. The player performing the action rolls the dice depending on the rating their ability or skill has.
+
+| Rating  | Dice         | 
+|---------|--------------|
+| High    | d8 + d6 + d4 |
+| Average | d8 + d6      |
+| Low     | d8           |
+
+Regarding the target score, the higher the number, the more difficult the action is. An easy way to set action target number is with the following table.
+
+| Difficulty | Target | 
+|------------|--------|
+| Easy       | 4      |
+| Normal     | 8      |
+| Hard       | 14     |
+| Impossible | 18     |
+
+However, the game master is free to set the difficulty number as they wish, using any number between the ones presented here. An entity with a low rating on a skill or score will barely be able to perform an action that goes beyond normal. Similarly, an entity with an ability or skill at the average rating will rarely be able to perform anything of a hard difficulty. Impossible difficulty is only attainable by those with high ratings.
