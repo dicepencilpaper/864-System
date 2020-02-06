@@ -16,10 +16,22 @@
 
 2020-02-04: Added Talents
 
+2020-02-05: Added Fantasy m864 with Introduction
+
+2020-02-05: Removed 01-Fundamentals as it was a duplicate file.
+
 ## Game Element Changes
 
 These changes will group changes around a specific game element. For example, all the Skill System changes will be under a heading named **Skill System** while magic would be under the **Magic** heading.
 
-Magic
+### Magic
 
 Added talents for Magic like Peltifer (protection magic), Fire Magic, Conjurer, and Alchemist.
+
+### ToDo
+
+Add Talents to Fantasy m864
+
+Add magic system with sample spells
+
+Lots of things, really
