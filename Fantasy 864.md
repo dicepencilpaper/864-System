@@ -61,6 +61,28 @@ Background describes where an entity is from and describes elements of the cultu
 
 Talents represent special abilities an entity possess such as a connection to magic, heightened senses, or other extraordinary abilities.
 
+**Fire Magic** - uses fire
+
+**Conjurer** - conjure horrors
+
+**Alchemy** - makes potions
+
+**Divine Favor** - Cleric
+
+**Astral/Pranic Traveller** - Travel through the Astral Plane (silver cord) or mental projection (golden bowl)
+
+**Melee Master (Swordsman)** - Can attack twice as an action. The second attack is at one attack rank lower.
+
+**Archer** - Like swordsman
+
+**Peltifer** - Casts Wards, Walls, and magical protection spells.
+
+**Defender (Clypean)** - A Martial protector, the opposite of a Melee Master or Archer. Can protect self or others.
+
+**Skapara** - A creator of devices and tools by means of clockwork.
+
+**Travel Magic** - Magic that helps you get from one place to another.
+
 ## Skills
 
 Skills represent broad categories of learned abilities. There are five: Survival, Communication, Knowledge, Subterfuge, and Physical. 
