@@ -2,6 +2,10 @@
 
 A list of resources for referees to use in their games.
 
+## Other Notes
+
+The extended ability table can be used to build spells, weapons, and any other damage-based item. Similar tables will appear below:
+
 ## Supers
 
 Extending the abilities from 3 to 8 provides a great way to add supers. Starting with Low, you add 2d6 to each of the 3 Abilities in the regular game and place the stats above High. To add two Abilities below Low, take the die down a level.
