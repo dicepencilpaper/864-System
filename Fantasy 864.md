@@ -12,7 +12,7 @@ An entity is defined as any sentient or semi-sentient inhabitant of the game wor
 
 To play with the 864-System, you'll need a few items aside from the booklet of rules:
 
-* A set of polyhedral dice, specifically one with eight sides, one with six sides, and the pyramid shaped die with four sides.
+* At a minimum, three kinds of dice. Specifically one with eight sides, three with six sides, and one die with four sides.
 * Pencil and paper to write down everything that describes a player's entity. (You may also decide to use an online word processor for the same purpose.)
 * A scene to start the action and get everyone playing.
 
