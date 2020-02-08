@@ -34,7 +34,7 @@ On the next round, Bart rolls an 11. Adding 3 to the result yield an attack roll
 
 On the following round, Bart rolls an 9. Adding 3 to the result yield an attack roll of 12. When comparing 12 , the attack roll is 4 more than the skeleton's PAT, a successful hit. Comparing the degree of success of 4 to the skeleton's PDR of 2 results in the skeleton being hurt. The skeleton's PDR is lowered to 1. 
 
-On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 17. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The degree of success of is 7. The referee divides 7 by 4 and rounds up. The skeleton suffers 2 wounds leaving it only 1 wound left before being defeated. Note the PDR remains 1.
+On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 17. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The degree of success of is 7. The referee divides 7 by 4 and rounds up. The skeleton suffers 2 wounds leaving it only 1 wound remaining before being defeated. Note the PDR remains 1.
 
 ## Other Notes
 
