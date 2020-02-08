@@ -2,7 +2,7 @@
 
 A list of resources for referees to use in their games.
 
-## Combat
+## Combat (Have to Redo as I got PDR wrong)
 
 Combat follows a sequence:
 
