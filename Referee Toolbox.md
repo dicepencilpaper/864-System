@@ -2,6 +2,36 @@
 
 A list of resources for referees to use in their games.
 
+## Combat
+
+Combat follows a sequence:
+
+1. Determine who goes first.
+
+2. Attacker rolls damage of a weapon plus either the Strength plus the rank of the Somatic skill for melee combat or Agility plus the rank of the Somatic skill. If the result is greater than or equal to the target's Physical Attack Target, the attacker is successful.
+
+3. The referee compares the attack roll to the Physical Damage Resistance stat and adjudicates as follows:
+
+   1. If the attack roll is less then or equal to the PDR, the target is unaffected.
+   2. If the attack roll is between 1 and 4 points above the PDR, the target is **harmed**, taking a -1 penalty to their PDR.
+   3. If the attack roll is greater than 4 points above the PDR, the target is **wounded** and takes a wound for every 4 points of damage above the PDR. 
+
+   The -1 penalties are cumulative. If an entity has already been harmed once, they suffer a -1 penalty to their PDR. If they are harmed again, the penalty increases to -2 and if harmed yet again, increases to -3.
+
+   An entity that is wounded does not take an addition -1 penalty to their PDR.
+
+### Combat Example
+
+Here is a detailed example of how combat works.
+
+A player's entity, named Bart is fighting an animated skeleton with a sword. Bart has average Strength and Physical skill rank of 1. Damage from a sword is 2. His attack rolls will be d8 + d6 + 1 (skill) +2 (sword). The skeleton has Low Agility (-1) and High Strength (+1) making their Physical Attack Target 8 -1 + 1 or 8. The skeleton's Physical Damage Resistance is 4 - 1 or 3.
+
+Bart rolls an 8 and adds 3 from the skill rating and weapon damage. Comparing the result of 11 to the skeleton's PAT, the attack roll is 3 higher. Comparing 3 to the skeleton's PDR of 3 results in the skeleton shaking off the attack.
+
+On the next round, Bart rolls an 11. Adding 3 to the result yield an attack roll of 14. When comparing 14 , the attack roll is 6 more than the skeleton's PAT, a successful hit. Comparing 6 to the skeleton's PDR of 3 results in the skeleton being hurt. The skeleton's PDR is lowered to 2. 
+
+On the next round, Bart rolls an 9. Adding 3 to the result yield an attack roll of 12. When comparing 12 , the attack roll is 4 more than the skeleton's PAT, a successful hit. Comparing 4 to the skeleton's PDR of 2 results in the skeleton being hurt. The skeleton's PDR is lowered to 1. 
+
 ## Other Notes
 
 The extended ability table can be used to build spells, weapons, and any other damage-based item. Similar tables will appear below:
