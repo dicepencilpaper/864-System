@@ -20,6 +20,8 @@
 
 2020-02-05: Removed 01-Fundamentals as it was a duplicate file.
 
+2020-02-08: Added Combat rules and a detailed example
+
 ## Game Element Changes
 
 These changes will group changes around a specific game element. For example, all the Skill System changes will be under a heading named **Skill System** while magic would be under the **Magic** heading.
@@ -27,6 +29,10 @@ These changes will group changes around a specific game element. For example, al
 ### Magic
 
 Added talents for Magic like Peltifer (protection magic), Fire Magic, Conjurer, and Alchemist.
+
+### Combat
+
+Finally wrote out the rules of Combat and provided a detailed example. Right now it is in the Referee's Toolbox, but I will move it out to the rules, soon.
 
 ### ToDo
 
