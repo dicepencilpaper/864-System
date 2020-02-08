@@ -2,7 +2,7 @@
 
 A list of resources for referees to use in their games.
 
-## Combat (Have to Redo as I got PDR wrong)
+## Combat
 
 Combat follows a sequence:
 
@@ -18,9 +18,9 @@ Combat follows a sequence:
    2. If the degree of success is between 1 and 4 points above the PDR, the target is **harmed**, taking a -1 penalty to their PDR.
    3. If the degree of success is greater than 4 points above the PDR, the target is **wounded** and takes a wound for every 4 points of the degree of success. 
 
-   The -1 penalties are cumulative. If an entity has already been harmed once, they suffer a -1 penalty to their PDR. If they are harmed again, the penalty increases to -2 and if harmed yet again, increases to -3.
+   The -1 penalties are cumulative. If an entity has already been harmed once, they suffer a -1 penalty to their PDR. If they are harmed again, the penalty increases to -2 and if harmed yet again, increases to -3. PDR can be negative.
 
-   An entity that is wounded does not take an addition -1 penalty to their PDR.
+   An entity that is wounded does **not** take an additional -1 penalty to their PDR.
 
 ### Combat Example
 
@@ -30,11 +30,11 @@ A player's entity, named Bart is fighting an animated skeleton with a sword. Bar
 
 Bart rolls an 8 and adds 3 from the skill rating and weapon damage. The referee compares the result of 11 to the skeleton's PAT. The attack roll is 3 higher, so they declare that the skeleton was hit by Bart's sword. Comparing the degree of success of 3 to the skeleton's PDR of 3 results in no damage. The referee describes that the skeleton shook off the attack.
 
-On the next round, Bart rolls an 11. Adding 3 to the result yield an attack roll of 14. When comparing 14 , the attack roll is 6 more than the skeleton's PAT, a successful hit. Comparing the degree of success of 6 to the skeleton's PDR of 3 results in the skeleton being hurt. The skeleton's PDR is lowered to 2. The referee describes this a gash in one of the skeleton's leg bones.
+On the next round, Bart rolls an 11. Adding 3 to the result yield an attack roll of 14. When comparing 14 , the attack roll is 6 more than the skeleton's PAT, a successful hit. Comparing the degree of success of 6 to the skeleton's PDR of 3 results in the the degree of success of 3. The skeleton is hurt. The skeleton's PDR is lowered to 2. The referee describes this a gash in one of the skeleton's leg bones.
 
 On the following round, Bart rolls an 9. Adding 3 to the result yield an attack roll of 12. When comparing 12 , the attack roll is 4 more than the skeleton's PAT, a successful hit. Comparing the degree of success of 4 to the skeleton's PDR of 2 results in the skeleton being hurt. The skeleton's PDR is lowered to 1. 
 
-On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 17. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The degree of success of is 7. The referee divides 7 by 4 and rounds up. The skeleton suffers 2 wounds leaving it only 1 wound remaining before being defeated. Note the PDR remains 1.
+On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 16. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The degree of success of is 7. The referee divides 7 by 4 and rounds down. The skeleton suffers 1 wound leaving it 2 wounds remaining before being defeated. Note that the PDR remains 1.
 
 ## Other Notes
 
