@@ -16,11 +16,10 @@ Combat follows a sequence:
 
    1. If the degree of success is less then or equal to the PDR, the target is unaffected.
    2. If the degree of success is between 1 and 4 points above the PDR, the target is **harmed**, taking a -1 penalty to their PDR.
-   3. If the degree of success is greater than 4 points above the PDR, the target is **wounded** and takes a wound for every 4 points of the degree of success. 
+   3. If the degree of success is greater than 4 points above the PDR, the target is **wounded** and takes a wound for every 4 points of the degree of success. The target also suffers a -1 penalty to their PDR.
 
    The -1 penalties are cumulative. If an entity has already been harmed once, they suffer a -1 penalty to their PDR. If they are harmed again, the penalty increases to -2 and if harmed yet again, increases to -3. PDR can be negative.
 
-   An entity that is wounded does **not** take an additional -1 penalty to their PDR.
 
 ### Combat Example
 
@@ -34,7 +33,7 @@ On the next round, Bart rolls an 11. Adding 3 to the result yield an attack roll
 
 On the following round, Bart rolls an 9. Adding 3 to the result yield an attack roll of 12. When comparing 12 , the attack roll is 4 more than the skeleton's PAT, a successful hit. Comparing the degree of success of 4 to the skeleton's PDR of 2 results in the skeleton being hurt. The skeleton's PDR is lowered to 1. 
 
-On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 16. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The degree of success of is 7. The referee divides 7 by 4 and rounds down. The skeleton suffers 1 wound leaving it 2 wounds remaining before being defeated. Note that the PDR remains 1.
+On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 16. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The degree of success of is 7. The referee divides 7 by 4 and rounds down. The skeleton suffers 1 wound leaving it 2 wounds remaining before being defeated. The skeleton's PDR is lowered again, now to 0.
 
 ## Other Notes
 
