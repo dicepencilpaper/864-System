@@ -8,13 +8,15 @@ Combat follows a sequence:
 
 1. Determine who goes first.
 
-2. Attacker rolls damage of a weapon plus either the Strength plus the rank of the Somatic skill for melee combat or Agility plus the rank of the Somatic skill. If the result is greater than or equal to the target's Physical Attack Target, the attacker is successful.
+2. Attacker rolls damage of a weapon plus either the Strength plus the rank of the Somatic skill for melee combat or Agility plus the rank of the Somatic skill for ranged combat. If the result is greater than or equal to the target's Physical Attack Target, the attacker is successful.
 
-3. The referee compares the attack roll to the Physical Damage Resistance stat and adjudicates as follows:
+3. If successful, the difference between the attack roll and the target's PAT is the **degree of success**.
 
-   1. If the attack roll is less then or equal to the PDR, the target is unaffected.
-   2. If the attack roll is between 1 and 4 points above the PDR, the target is **harmed**, taking a -1 penalty to their PDR.
-   3. If the attack roll is greater than 4 points above the PDR, the target is **wounded** and takes a wound for every 4 points of damage above the PDR. 
+4. The referee compares the degree of success to the Physical Damage Resistance stat and adjudicates as follows:
+
+   1. If the degree of success is less then or equal to the PDR, the target is unaffected.
+   2. If the degree of success is between 1 and 4 points above the PDR, the target is **harmed**, taking a -1 penalty to their PDR.
+   3. If the degree of success is greater than 4 points above the PDR, the target is **wounded** and takes a wound for every 4 points of the degree of success. 
 
    The -1 penalties are cumulative. If an entity has already been harmed once, they suffer a -1 penalty to their PDR. If they are harmed again, the penalty increases to -2 and if harmed yet again, increases to -3.
 
@@ -26,13 +28,13 @@ Here is a detailed example of how combat works.
 
 A player's entity, named Bart is fighting an animated skeleton with a sword. Bart has average Strength and Physical skill rank of 1. Damage from a sword is 2. His attack rolls will be d8 + d6 + 1 (skill) +2 (sword). The skeleton has High Agility (-1) and Low Strength (+1) making their Physical Attack Target 8 -1 + 1 or 8. The skeleton's Physical Damage Resistance is 4 - 1 or 3. The skeleton can take 3 wounds before being defeated.
 
-Bart rolls an 8 and adds 3 from the skill rating and weapon damage. The referee compares the result of 11 to the skeleton's PAT. The attack roll is 3 higher, so they declare that the skeleton was hit by Bart's sword. Comparing 3 to the skeleton's PDR of 3 results in no damage. The referee describes that the skeleton shook off the attack.
+Bart rolls an 8 and adds 3 from the skill rating and weapon damage. The referee compares the result of 11 to the skeleton's PAT. The attack roll is 3 higher, so they declare that the skeleton was hit by Bart's sword. Comparing the degree of success of 3 to the skeleton's PDR of 3 results in no damage. The referee describes that the skeleton shook off the attack.
 
-On the next round, Bart rolls an 11. Adding 3 to the result yield an attack roll of 14. When comparing 14 , the attack roll is 6 more than the skeleton's PAT, a successful hit. Comparing 6 to the skeleton's PDR of 3 results in the skeleton being hurt. The skeleton's PDR is lowered to 2. The referee describes this a gash in one of the skeleton's leg bones.
+On the next round, Bart rolls an 11. Adding 3 to the result yield an attack roll of 14. When comparing 14 , the attack roll is 6 more than the skeleton's PAT, a successful hit. Comparing the degree of success of 6 to the skeleton's PDR of 3 results in the skeleton being hurt. The skeleton's PDR is lowered to 2. The referee describes this a gash in one of the skeleton's leg bones.
 
-On the following round, Bart rolls an 9. Adding 3 to the result yield an attack roll of 12. When comparing 12 , the attack roll is 4 more than the skeleton's PAT, a successful hit. Comparing 4 to the skeleton's PDR of 2 results in the skeleton being hurt. The skeleton's PDR is lowered to 1. 
+On the following round, Bart rolls an 9. Adding 3 to the result yield an attack roll of 12. When comparing 12 , the attack roll is 4 more than the skeleton's PAT, a successful hit. Comparing the degree of success of 4 to the skeleton's PDR of 2 results in the skeleton being hurt. The skeleton's PDR is lowered to 1. 
 
-On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 17. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The referee divides 7 by 4 and rounds up. The skeleton suffers 2 wounds leaving it only 1 wound left before being defeated. Note the PDR remains 1.
+On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack roll of 17. The attack roll is 8 more than the skeleton's PAT, a successful hit. Comparing 8 to the skeleton's PDR of 1 results in the skeleton being wounded. The degree of success of is 7. The referee divides 7 by 4 and rounds up. The skeleton suffers 2 wounds leaving it only 1 wound left before being defeated. Note the PDR remains 1.
 
 ## Other Notes
 
