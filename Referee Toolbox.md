@@ -12,7 +12,7 @@ Combat follows a sequence:
 
 3. If successful, the difference between the attack roll and the target's PAT is the **degree of success**.
 
-4. The referee compares the degree of success to the Physical Damage Resistance stat and adjudicates as follows:
+4. The referee compares the degree of success to the Physical Damage Resistance (PDR) stat and adjudicates as follows:
 
    1. If the degree of success is less then or equal to the PDR, the target is unaffected.
    2. If the degree of success is between 1 and 4 points above the PDR, the target is **harmed**, taking a -1 penalty to their PDR.
