@@ -37,7 +37,7 @@ On the fourth round, Bart rolls a 13. Adding 3 to the result yields an attack ro
 
 ## Other Notes
 
-The extended ability table can be used to build spells, weapons, and any other damage-based item. Similar tables will appear below:
+<!--The extended ability table can be used to build spells, weapons, and any other damage-based item. Similar tables will appear below:-->
 
 ## Supers
 
