@@ -102,3 +102,7 @@ Each skill has the rank of 0, 1, or 2. A rank of zero represents no training or 
 ## Base mechanic
 
 Performing any kind of action with a chance for failure requires a roll based on an ability rating and a skill value against a target number from 1 to 20. The higher the number, the more difficult the action.
+
+### Edge and Hindrance
+
+If an entity has favorable conditions to perform an action, the player will add a d6 to their roll. If an entity has unfavorable conditions, the player will remove a d6 from their roll. If the ability rating is Low, the d8 will be exchanged with a d6 to make the roll.
