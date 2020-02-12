@@ -22,6 +22,8 @@
 
 2020-02-08: Added Combat rules and a detailed example
 
+2020-02-12: Added Edge and Hindrance to the Basic Mechanic
+
 ## Game Element Changes
 
 These changes will group changes around a specific game element. For example, all the Skill System changes will be under a heading named **Skill System** while magic would be under the **Magic** heading.
@@ -33,6 +35,10 @@ Added talents for Magic like Peltifer (protection magic), Fire Magic, Conjurer, 
 ### Combat
 
 Finally wrote out the rules of Combat and provided a detailed example. Right now it is in the Referee's Toolbox, but I will move it out to the rules, soon.
+
+### Basic Mechanic
+
+Added the Edge/Hindrance rule for favorable or unfavorable conditions to attempt an action.
 
 ### ToDo
 
