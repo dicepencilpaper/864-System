@@ -4,6 +4,14 @@ A list of resources for referees to use in their games.
 
 ## Distance
 
+Reach - Within about five feet.
+
+Nearby - Between five feet and about thirty feet.
+
+Stone's Throw - Between thirty feet and about sixty feet.
+
+Yonder - Between about sixty feet and around 120 feet
+
 
 
 ## Combat
