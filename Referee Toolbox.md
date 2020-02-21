@@ -4,19 +4,19 @@ A list of resources for referees to use in their games.
 
 ## Distance
 
-Reach - Within about five feet.
+**Reach** - Within about five feet.
 
-Nearby - Between five feet and about thirty feet.
+**Nearby** - Between five feet and about thirty feet.
 
-Stone's Throw - Between thirty feet and about sixty feet.
+**Stone's Throw** - Between thirty feet and about sixty feet.
 
-Yonder - Between about sixty feet and around 120 feet
+**Yonder** - Between about sixty feet and around 120 feet
 
-Crossbow Range - Between 120 and 300 feet
+**Crossbow Range** - Between 120 and 300 feet
 
-Longbow Range - Between 300 and 600 feet
+**Longbow Range** - Between 300 and 600 feet
 
-Far Away - Anything over 600 feet.
+**Far Away** - Anything over 600 feet.
 
 ## Combat
 
