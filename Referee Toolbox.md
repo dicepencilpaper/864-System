@@ -25,7 +25,7 @@ Combat follows a sequence:
 
 Here is a detailed example of how combat works.
 
-A player's entity, named Bart is fighting an animated skeleton with a sword. Bart has average Strength and Physical skill rank of 1. Damage from a sword is 2. His attack rolls will be d8 + d6 + 1 (skill) +2 (sword). The skeleton has High Agility (-1) and Low Strength (+1) making their Physical Attack Target 8 -1 + 1 or 8. The skeleton's Physical Damage Resistance is 4 - 1 or 3. The skeleton can take 3 wounds before being defeated.
+A player's entity, named Bart is fighting an animated skeleton with a sword. Bart has average Strength and Physical skill rank of 1. Damage from a sword is 2. His attack rolls will be d8 + d6 + 1 (skill) +2 (sword). The skeleton has High Agility (+1) and Low Strength (-1) making their Physical Attack Target 8 + 1 - 1 or 8. The skeleton's Physical Damage Resistance is 4 - 1 or 3. The skeleton can take 3 wounds before being defeated.
 
 Bart rolls an 8 and adds 3 from the skill rating and weapon damage. The referee compares the result of 11 to the skeleton's PAT. The attack roll is 3 higher, so they declare that the skeleton was hit by Bart's sword. Comparing the degree of success of 3 to the skeleton's PDR of 3 results in no damage. The referee describes that the skeleton shook off the attack.
 
@@ -61,6 +61,23 @@ If you want to investigate how this works from a probability standpoint, you can
 ## Fantasy
 
 Spells are provided in the Fantasy 864 game, but not the tools to build your own. Here are the tables to build your own spells.
+
+### Fantasy Equipment
+
+| Weapon       | Damage |
+| ------------ | ------ |
+| Dagger       | 1      |
+| Handaxe      | 2      |
+| Javelin      | 2      |
+| Mace         | 2      |
+| Quarterstaff | 2      |
+| Crossbow     | 3      |
+| Longsword    | 3      |
+| Shortsword   | 2      |
+| Halberd      | 4      |
+| Greatsword   | 5      |
+
+
 
 ### Spell Building
 
