@@ -171,4 +171,4 @@ Mana Cost for Failure: 9
 
 Lowers the Target to beat by 3, raises the Mana cost for failure by 3.
 
-Descriptors are made up of choice of 3: an adjective (except colors), a shape, a non-shape noun, a number.
+Descriptors are made up of choice of 3: an adjective (except colors), a shape, a non-shape noun, a number. (Will provide a table soon.)
