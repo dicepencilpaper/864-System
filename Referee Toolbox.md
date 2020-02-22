@@ -61,16 +61,16 @@ Extending the abilities from 3 to 8 provides a great way to add supers. Starting
 
 ### Extended Ability Table
 
-| Rating     | Dice          |
-| ---------- | ------------- |
-| Unearthly  | d8 + 3d6 + d4 |
-| Superhuman | d8 + 3d6      |
-| Very High  | d8 + 2d6      |
-| High       | d8 + d6 + d4  |
-| Average    | d8 + d6       |
-| Low        | d8            |
-| Very Low   | d6            |
-| Weak       | d4            |
+| Rating     | Dice          |  Modifier  |
+| ---------- | ------------- | :--------: |
+| Unearthly  | d8 + 3d6 + d4 | + 7 to + 8 |
+| Superhuman | d8 + 3d6      | + 5 to + 6 |
+| Very High  | d8 + 2d6      | + 3 to + 4 |
+| High       | d8 + d6 + d4  | + 1 to + 2 |
+| Average    | d8 + d6       |     0      |
+| Low        | d8            | - 1 to - 2 |
+| Very Low   | d6            | - 3 to - 4 |
+| Weak       | d4            | - 5 to - 6 |
 
 If you want to investigate how this works from a probability standpoint, you can look at the anydice link [here](https://anydice.com/program/19ccf). One feature of this dice progression is that the minimum rolls progress upwards, unlike the dice progressions in some d20 systems.
 
@@ -172,3 +172,9 @@ Mana Cost for Failure: 9
 Lowers the Target to beat by 3, raises the Mana cost for failure by 3.
 
 Descriptors are made up of choice of 3: an adjective (except colors), a shape, a non-shape noun, a number. (Will provide a table soon.)
+
+## Non-Player Entities
+
+All entities have attributes, stats, talents, and skills, though some are played by the referee as an adversary, an ally, an obstacle to overcome, or an object of wonder. NPEs have a rating number to allow referees to gauge their relative power levels to the Players' Entities and to other NPEs. If the players gain a powerful ally, say a dragon, then its important to provide challenging obstacles or adversaries that won't allow the dragon to easily solve everything for them.
+
+As some entities transcend normal abilities
