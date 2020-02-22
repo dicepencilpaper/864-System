@@ -97,6 +97,78 @@ Spells are provided in the Fantasy 864 game, but not the tools to build your own
 
 ### Spell Building
 
-The first ingredient used in building the spell is selecting the appropriate talent. A Talent shapes the form of the spell (like Fire Magic) and/or the effect (like Asrtal/Pranic Travel). Using the two example, a Fire Magic spell will always have an element of Fire in it somehow. It could be to provide light or burning energy. Since you can describe the look of a spell in any way you want, a spell that forms a ring of fire allowing you to teleport would not be a Fire Magic spell, but a Gate Magic spell.
+#### First Ingredient: Talent 
+
+A Talent shapes the form of the spell (like Fire Magic) and/or the effect (like Asrtal/Pranic Travel). Using the two example, a Fire Magic spell will always have an element of Fire in it somehow. It could be to provide light or burning energy. Since you can describe the look of a spell in any way you want, a spell that forms a ring of fire allowing you to teleport would not be a Fire Magic spell, but a Gate Magic spell.
 
 If the suggested Talents don't meet the needs, then create a new talent.
+
+#### Second Ingredient: Casting Time
+
+| Time       | Affect |
+| ---------- | ------ |
+| 10 minutes | + 1    |
+| 1 minute   | + 2    |
+| 4 actions  | + 3    |
+| 2 actions  | + 4    |
+| 1 action   | + 5    |
+
+#### Third Ingredient: Range
+
+| Range           | Affect |
+| --------------- | ------ |
+| Self or Reach   | + 1    |
+| Nearby          | + 2    |
+| A Stone's Throw | + 3    |
+| Yonder          | + 4    |
+| Crossbow Range  | + 5    |
+| Longbow Range   | + 6    |
+
+#### Fourth Ingredient: Duration
+
+| Duration   | Affect |
+| ---------- | ------ |
+| Instant    | + 1    |
+| 1 minute   | + 2    |
+| 10 minutes | + 3    |
+| 30 minutes | + 4    |
+| 1 hour     | + 5    |
+
+#### Fifth Ingredient: Area of Effect
+
+| # Targets | Area            | Divining                  |
+| --------- | --------------- | ------------------------- |
+| 1         | Self/Individual | Attribute Roll in Minutes |
+| Up to 2   | Small Room      | Attribute Roll in Hours   |
+| Up to 4   | Large Room      | Attribute Roll in Days    |
+| Up to 6   | Small House     | Attribute Roll in Weeks   |
+| Up to 8   | Large House     | Attribute Roll in Months  |
+
+#### Sixth Ingredient: Effect
+
+| Cost | Damage | Healing                      | Other |
+| ---- | ------ | ---------------------------- | ----- |
+| 1    | + 1    | Restore PDR                  | +/- 1 |
+| 2    | + 2    | 1 Wound or Remove Scar       | +/- 2 |
+| 3    | + 4    | Up to 2 Wounds               | +/- 4 |
+| 4    | + 6    | Up to 4 Wounds or lost digit | +/- 6 |
+| 5    | + 8    | Up to 6 Wounds or lost limb  | +/- 8 |
+
+Example: Fire Blast
+
+1. Fire Magic
+2. Two Actions (+4)
+3. A Stone's Throw (+3)
+4. Instant (+1)
+5. Up to 4 targets (+3)
+6. 4 Damage (+3)
+
+Target to Beat: 14
+
+Mana Cost for Failure: 9
+
+#### Optional Seventh Ingredient: Descriptors
+
+Lowers the Target to beat by 3, raises the Mana cost for failure by 3.
+
+Descriptors are made up of choice of 3: an adjective (except colors), a shape, a non-shape noun, a number.
