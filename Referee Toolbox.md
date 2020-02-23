@@ -177,4 +177,19 @@ Descriptors are made up of choice of 3: an adjective (except colors), a shape, a
 
 All entities have attributes, stats, talents, and skills, though some are played by the referee as an adversary, an ally, an obstacle to overcome, or an object of wonder. NPEs have a rating number to allow referees to gauge their relative power levels to the Players' Entities and to other NPEs. If the players gain a powerful ally, say a dragon, then its important to provide challenging obstacles or adversaries that won't allow the dragon to easily solve everything for them.
 
-As some entities transcend normal abilities
+As some entities transcend normal abilities, it will not be unusual to use the Extended Ability Table to detail an NPE. It is also possible that NPEs will have a skill rating above 2 for one or more skills.
+
+### NPE Ratings
+
+The rating is the sum of the Ability Modifiers + 1 for each talent if the NPE has more than one, + 1 for each skill with a rating of 2 or more, +1 for each magic item, and the weapon damage - 1.
+
+#### Example
+
+An Ogre has the following attributes, stats, talents, and skills:
+
+Acumen: Low (-2), Agility: Low (-1), Strength: Very High (+4), Tenacity: Average (0)
+Stats: MAT: 6, MDR: 4, PAT: 11, PDR: 9 (8 plus 1 from the Talent)
+Talent: Durable (Can take 1 extra wound damage)
+Skill: Phyisical +1, Survival +2, Great Club +2 damage.
+
+The NPE rating for the Ogre is 2
