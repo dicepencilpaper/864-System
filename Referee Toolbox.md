@@ -76,7 +76,7 @@ If you want to investigate how this works from a probability standpoint, you can
 
 ## Fantasy
 
-Spells are provided in the Fantasy 864 game, but not the tools to build your own. Here are the tables to build your own spells.
+Here are some tool to use in a Fantasy game.
 
 ### Fantasy Equipment
 
@@ -96,6 +96,8 @@ Spells are provided in the Fantasy 864 game, but not the tools to build your own
 
 
 ### Spell Building
+
+Spells are provided in the Fantasy 864 game, but not the tools to build your own. Here are the tables to build your own spells.
 
 #### First Ingredient: Talent 
 
