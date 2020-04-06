@@ -106,3 +106,22 @@ Performing any kind of action with a chance for failure requires a roll based on
 ### Edge and Hindrance
 
 If an entity has favorable conditions to perform an action, the player will add a d6 to their roll. If an entity has unfavorable conditions, the player will remove a d6 from their roll. If the ability rating is Low, the d8 will be exchanged with a d6 to make the roll.
+
+## Magic
+
+Any magical talent allows an entity to cast spells. Casting a spell requires a successful roll Acumen + Knowledge. Failed rolls cost Mana. Mana is an additional stat determined by adding Acumen and Strength ability rolls. Mana is replenished after a long rest. Any Mana cost that lowers Mana below zero costs 2 wounds for PDR. 
+
+### Grimoire
+
+#### Blast of the Firehorse
+
+**Fire Magic**
+Casting Time: **2 Actions**
+Range: **A Stone's Throw**
+Duration: **Instant**
+Target Number: **11**
+Mana: **12**
+
+This spell uses a horseshoe nail hook as a material component to cast the spell. This spell is limited to being cast outdoors.
+
+On a successful cast, up to 4 targets within a stone's throw away take 4 wounds of damage.
