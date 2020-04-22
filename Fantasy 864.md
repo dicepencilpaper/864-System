@@ -122,6 +122,8 @@ Duration: **Instant**
 Target Number: **11**
 Mana: **12**
 
-This spell uses a horseshoe nail hook as a material component to cast the spell. This spell is limited to being cast outdoors.
+This spell uses a horseshoe nail puller as a material component to cast the spell. This spell is limited to being cast outdoors.
+
+![](https://www.valleyvet.com/group_images/26187_A.jpg)
 
 On a successful cast, up to 4 targets within a stone's throw away take 4 wounds of damage.
