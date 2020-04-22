@@ -48,10 +48,11 @@ The ability modifier for an ability with Average rating is 0.
 
 Stats provide more information about an entity's physical and mental characteristics. Unlike Abilities, Stats are assigned values instead of dice. The four stats are:
 
-- **Mental attack target (MAT)** - Determines the base difficulty to hit the entity with a mental attack.
-- **Mental damage resistance (MDR)** - Determines how much mental harm the entity can take.
-- **Physical attack target (PAT)** - Determines how easy or difficult it is to hit the entity with a physical attack.
-- **Physical damage resistance (PDR)** - Determines how much physical harm the entity can take. 
+- **Aegis (AEG)** - Determines the base difficulty to hit the entity with a mental attack.
+- **Resilience (RES)** - Determines how much mental harm the entity can take.
+- **Armor (ARM)** - Determines how easy or difficult it is to hit the entity with a physical attack.
+- **Health (HEA)** - Determines how much physical harm the entity can take. 
+- **Mana (MAN)** - Determines the about of magic an entity can use.
 
 ## Background
 
