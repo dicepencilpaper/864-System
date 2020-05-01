@@ -23,6 +23,9 @@ Measures the ability for reasoning and understanding, and for things such as inv
 #### Agility (AGI)
 Measures physical nimbleness. This helps to avoid being hit by physical attacks, in conjunction with Awareness. It is used when the entity is trying to perform complex physical moves like parkour.
 
+#### Aura (AUR)
+Measures the individual's charisma and overall attractiveness. This is not necessarily related to physical appearance.
+
 #### Awareness (AWA)
 Determines how "in-tune" the entity is to their surroundings. This, with Agility, determines how hard it is to hit the entity.
 
@@ -104,12 +107,12 @@ To make it even more random, after rolling an ability rating, the player can rol
 |------|---------------|
 | 1    | Acumen        |
 | 2    | Agility       |
-| 3    | Awareness     |
-| 4    | Dexterity     |
-| 5    | Endurance     |
-| 6    | Strength      |
-| 7    | Tenacity      |
-| 8    | Player choice |
+| 3    | Aura          |
+| 4    | Awareness     |
+| 5    | Dexterity     |
+| 6    | Endurance     |
+| 7    | Strength      |
+| 8    | Tenacity      |
 
 ### Creating a player character
 
