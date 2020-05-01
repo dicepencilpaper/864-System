@@ -1,6 +1,8 @@
 # Spells & Steel
 Spells & Steel is a medieval fantasy system based on the 864 RPG, a simplified tabletop role-playing system uses the d8, d6, and d4 dice for its mechanics. It uses dice elimination and simple modifiers to set up roll targets and determine success.
 
+<img src="https://github.com/dicepencilpaper/864-System/blob/master/spells%20and%20steel%203.jpg">
+
 ## Entities
 An entity is defined as a player character, non-player character, monster, creature, or any other sentient or semi-sentient inhabitant of the adventure world, basically anything that can be considered alive (or pseudo-alive, like undead creatures).
 
