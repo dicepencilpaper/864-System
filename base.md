@@ -81,4 +81,4 @@ Shields reduce the chance of being hit by an attack.
 Damage is equal to the difference between the attack roll minus 8. For example, a chainmail-clad warrior attacks with his longsword a barbarian wearing leather armor and armed with a great axe. Both have fighting skills, so all rolls will be average. The warrior rolls 10, + 3 from her longsword for a total of 13, which is higher than 8 so it hits. Damage should be 13 - 8 = 6, but the barbarian's leather armor reduces that to 5. Now the barbarian has only 5 hit points left.
 
 ## Magic
-Magic-users have a total of 
+Magic-users have a total of 10 spell points available. They can cast spell anytime. Spells by default are cast as hard difficulty. Players can use their spell points to improve the chance of success of their spells by spending 1 point to make the spell of average difficulty, or 2 points to make it of easy difficulty.
