@@ -21,10 +21,10 @@ Every task will have three difficulty levels, and each level has its own dice to
 To determine if an action to perform a task is successful, the player needs to roll as number equal or greater than 8. It is up to the Game Master to determine the difficulty of a task generally. Tasks include skill actions and activities, and also includes combat actions.
 
 ## Player characters
-Player characters will have 1d4+1 skills available, based on the setting the game is being played on. A player will roll to see how many skills they have available. Let's create a character as an example!
+In this system, player characters don't have abilities like strength or intelligence. They are defined by their knowledge and skills. Player characters will have 1d4+2 skills available if not a magic-user. For magic users, the number of skills is 1d4. A player will roll to see how many skills they have available. Let's create a character as an example!
 
 ### Skills
-The player rolls 1d4 and gets 3 + 2 = five initial skills. They want to play a sort of wilderness-savvy fighter, so these are the skills chosen:
+The player rolls 1d4 and gets 3 + 2 = 5 initial skills. They want to play a sort of wilderness-savvy fighter, so these are the skills chosen:
 
 * Swordsmanship
 * Bows
@@ -81,4 +81,19 @@ Shields reduce the chance of being hit by an attack.
 Damage is equal to the difference between the attack roll minus 8. For example, a chainmail-clad warrior attacks with his longsword a barbarian wearing leather armor and armed with a great axe. Both have fighting skills, so all rolls will be average. The warrior rolls 10, + 3 from her longsword for a total of 13, which is higher than 8 so it hits. Damage should be 13 - 8 = 6, but the barbarian's leather armor reduces that to 5. Now the barbarian has only 5 hit points left.
 
 ## Magic
-Magic-users have a total of 10 spell points available. They can cast spell anytime. Spells by default are cast as hard difficulty. Players can use their spell points to improve the chance of success of their spells by spending 1 point to make the spell of average difficulty, or 2 points to make it of easy difficulty.
+Magic-users have a total of 10 spell points available. They can cast spell anytime. Spells by default are cast as hard difficulty. Players can use their spell points to improve the chance of success of their spells by spending points as follows:
+
+| Spell difficulty | Points |
+|------------------|--------|
+| Easy             | 2      |
+| Average          | 1      |
+| Hard             | 0      |
+
+This means that there are no limitations to how many spells a caster can cast as long as they are cast at hard difficulty, but there is a daily limit for easy or average difficulty casting. Any points not spent in a day do not accumulate for the next.
+
+### Spells
+Spells have a duration of around 5 seconds and are instantaneous in effect if successful. Spells can be created by using simple verb/noun combinations. Some examples:
+
+* Darken Room
+* Push Enemy
+* Hit Monster
