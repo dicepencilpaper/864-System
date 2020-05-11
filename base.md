@@ -1,152 +1,84 @@
 # Spells & Steel
-Spells & Steel is a medieval fantasy system based on the 864 RPG, a simplified tabletop role-playing system uses the d8, d6, and d4 dice for its mechanics. It uses dice elimination and simple modifiers to set up roll targets and determine success.
+A super simplified concept for a medieval fantasy role-playing system
+by Dice Pencil & Paper
 
-## Entities
-An entity is defined as a player character, non-player character, monster, creature, or any other sentient or semi-sentient inhabitant of the adventure world, basically anything that can be considered alive (or pseudo-alive, like undead creatures).
+## Basics
+To use this system, we need the following dice: d8, d6, and d4. These will always be rolled in the following ways:
 
-### Abilities
-Abilities define global characteristics of any sentient or semi-sentient entity. These are defined by how many dice are rolled when using them, and have three levels for measuring how capable the entity is in that area.
+* Only d8
+* Roll d8 + d6
+* Roll d8 + d6 + d4
 
-| Rating  | Dice         | 
-|---------|--------------|
-| High    | d8 + d6 + d4 |
-| Average | d8 + d6      |
-| Low     | d8           |
+The result values will always be added up as a total, together with any modifiers (as explained below).
 
-Since there are only three levels per each ability, the initial recommendation is to have multiple abilities used in the entity definition so that a lot of ground can be covered and compensate for the somwhat simple ability measurement system. These are some proposed abilities:
+### Solving tasks
+Every task will have three difficulty levels, and each level has its own dice to roll:
 
-#### Acumen (ACU)
-Measures the ability for reasoning and understanding, and for things such as investigation and research. This determines how many skills an entity can know.
+* Easy: d8 + d6 + d4
+* Average: d8 + d6
+* Hard: d8
 
-#### Agility (AGI)
-Measures physical nimbleness. This helps to avoid being hit by physical attacks, in conjunction with Awareness. It is used when the entity is trying to perform complex physical moves like parkour.
+To determine if an action to perform a task is successful, the player needs to roll as number equal or greater than 8. It is up to the Game Master to determine the difficulty of a task generally. Tasks include skill actions and activities, and also includes combat actions.
 
-#### Awareness (AWA)
-Determines how "in-tune" the entity is to their surroundings. This, with Agility, determines how hard it is to hit the entity.
+## Player characters
+Player characters will have 1d4+1 skills available, based on the setting the game is being played on. A player will roll to see how many skills they have available. Let's create a character as an example!
 
-#### Dexterity (DEX)
-Measures hand-to-eye coordination and precise handiwork. Use this ability as the base for missile attacks.
+### Skills
+The player rolls 1d4 and gets 3 + 2 = five initial skills. They want to play a sort of wilderness-savvy fighter, so these are the skills chosen:
 
-#### Endurance (END)
-Measures toughness and resistance to damage. This directly determines how much damage an entity can take.
+* Swordsmanship
+* Bows
+* Hunting
+* Tracking
+* Herbalist
 
-#### Strength (STR)
-Measures raw physical strength and power. Melee attacks would use this stat as their base.
+By having these skills, they get one difficulty level bump when using these skills. If a task required a hard skill roll, it now becomes average. Average becomes easy, and easy difficulty tasks are automatically successful, meaning that no roll is needed.
 
-#### Tenacity (TEN)
-Measures the entity's mental strength and resilience, and also sets how much mental damage the entity can take.
+### Hit points
+A player character will have a total amount of 10 hit points.
 
-### Additional stats
-There are other stats that are needed to round out the basic description for an entity.
+## Combat
+To determine the difficulty level to hit an entity, we need to check if that entity is trained in combat or has any sort of natural combat ability (as in a monster). If the target of the attack has no combat abilities, the roll to hit them is average. If the entity has some training or natural capability, the roll is a hard one. This is modified by the attacker having any skills in the weapon or attack being executed. This can be explained in the following table.
 
-#### Mental attack target (MAT)
-Determines how easy or difficult it is to hit the entity with a mental/psych attack. To determine this stat, consult the Acument and Tenacity scores. Add them up using the following reference values:
+|                    | Defender skilled | Defender unskilled |
+|--------------------|------------------|--------------------|
+| Attacker skilled   | Average          | Easy               |
+| Attacker unskilled | Hard             | Average            |
 
-| Rating  | Modifier | 
-|---------|----------|
-| High    | +2       |
-| Average | 0        |
-| Low     | -2       |
+### Weapons
+Each weapon has a number bonus for their to-hit number, meaning that bonus is added to the total of the dice rolled.
 
-Take 8 and add the values of both abilities. The result is the base number someone needs to roll (or higher) to affect the entity via a mental or psych attack. For example, a player character with low awareness and average acumen would have -2 + 0 + 8 = 6 or more to be affected.
+| Weapon             | Bonus |
+|--------------------|-------|
+| Battle axe         | +2    |
+| Dagger             | +1    |
+| Great axe          | +4    |
+| Hand axe           | +1    |
+| Longbow            | +3    |
+| Longsword          | +3    |
+| Shortbow           | +2    |
+| Shortsword         | +2    |
+| Sling              | +1    |
+| Two-handed sword   | +4    |
 
-#### Mental damage resistance (MDR)
-Determines how much physical damage the entity can take. This is defined as follows, based on the Tenacity ability:
+### Armor
+Armor reduces the damage taken from an attack. This factor is known as a protection rating (PR). 
 
-| Rating  | Score | 
-|---------|-------|
-| High    | 6     |
-| Average | 4     |
-| Low     | 2     |
+| Armor         | PR |
+|---------------|----|
+| Chain mail    | 2  |
+| Leather       | 1  |
+| Plate mail    | 3  |
 
-#### Physical attack target (PAT)
-Determines how easy or difficult it is to hit the entity with a physical attack. To determine this stat, consult the Agility and Awareness scores. Add them up using the following reference values:
+Shields reduce the chance of being hit by an attack.
 
-| Rating  | Modifier | 
-|---------|----------|
-| High    | +2       |
-| Average | 0        |
-| Low     | -2       |
+| Shield type   | Mod |
+|---------------|-----|
+| Large         | -3  |
+| Small         | -2  |
 
-Take 8 and add the values of both abilities. The result is the base number someone needs to roll (or higher) to hit the entity with a physical attack. For example, a player character with high agility and average awareness would have 2 + 0 + 8 = 10 or more to be hit.
+### Damage
+Damage is equal to the difference between the attack roll minus 8. For example, a chainmail-clad warrior attacks with his longsword a barbarian wearing leather armor and armed with a great axe. Both have fighting skills, so all rolls will be average. The warrior rolls 10, + 3 from her longsword for a total of 13, which is higher than 8 so it hits. Damage should be 13 - 8 = 6, but the barbarian's leather armor reduces that to 5. Now the barbarian has only 5 hit points left.
 
-#### Physical damage resistance (PDR)
-Determines how much physical damage the entity can take. This is defined as follows, based on the Endurance ability:
-
-| Rating  | Score | 
-|---------|-------|
-| High    | 6     |
-| Average | 4     |
-| Low     | 2     |
-
-## Creating a player character
-
-### Abilities
-There are different systems for generating a player character's abilities.
-
-#### Direct assignment
-Each player character will have two high, three average, and two low abilities. The player gets to assign these scores to their character abilities as desired.
-
-#### Random assignment
-The player rolls d864 for each ability, and then consults the table below:
-
-| Roll  | Rating  | 
-|-------|---------|
-| 3-6   | Low     |
-| 7-12  | Average |
-| 13-18 | High    |
-
-To make it even more random, after rolling an ability rating, the player can roll 1d8 to determine the ability to be set, based on this table:
-
-| Roll | Ability       | 
-|------|---------------|
-| 1    | Acumen        |
-| 2    | Agility       |
-| 3    | Awareness     |
-| 4    | Dexterity     |
-| 5    | Endurance     |
-| 6    | Strength      |
-| 7    | Tenacity      |
-| 8    | Player choice |
-
-### Creating a player character
-
-Let's create a player character using the random process. First, we will roll the ability ratings by rolling d864 7 times.
-
-* 10 - Average
-* 14 - High
-* 8 - Average
-* 8 - Average
-* 11 - Average
-* 10 - Average
-* 5 - Low
-
-Now we roll 1d8 to assign the ability ratings, starting from the first one:
-
-* Tenacity - Average
-* Dexterity - High
-* Agility - Average
-* Strength - Average
-* Awareness - Average
-* Endurance - Average
-* Acumen - Low
-
-## Base mechanics
-All attempts at performing an action will be performed against a target number from 1 to 20. The player performing the action rolls the dice depending on the rating their ability or skill has.
-
-| Rating  | Dice         | 
-|---------|--------------|
-| High    | d8 + d6 + d4 |
-| Average | d8 + d6      |
-| Low     | d8           |
-
-Regarding the target score, the higher the number, the more difficult the action is. An easy way to set action target number is with the following table.
-
-| Difficulty | Target | 
-|------------|--------|
-| Easy       | 4      |
-| Normal     | 8      |
-| Hard       | 14     |
-| Impossible | 18     |
-
-However, the game master is free to set the difficulty number as they wish, using any number between the ones presented here. An entity with a low rating on a skill or score will barely be able to perform an action that goes beyond normal. Similarly, an entity with an ability or skill at the average rating will rarely be able to perform anything of a hard difficulty. Impossible difficulty is only attainable by those with high ratings.
+## Magic
+Magic-users have a total of 
