@@ -66,21 +66,18 @@ Armor reduces the damage taken from an attack. This factor is known as a protect
 
 | Armor         | PR |
 |---------------|----|
-| Leather       | 1  |
 | Chain mail    | 2  |
+| Leather       | 1  |
 | Plate mail    | 3  |
 
 Shields reduce the chance of being hit by an attack.
 
 | Shield type   | Mod |
 |---------------|-----|
-| Small         | -1  |
-| Large         | -2  |
+| Large         | -3  |
+| Small         | -2  |
 
 ### Damage
 Damage is equal to the difference between the attack roll minus 8. For example, a chainmail-clad warrior attacks with his longsword a barbarian wearing leather armor and armed with a great axe. Both have fighting skills, so all rolls will be average. The warrior rolls 10, + 3 from her longsword for a total of 13, which is higher than 8 so it hits. Damage should be 13 - 8 = 6, but the barbarian's leather armor reduces that to 5. Now the barbarian has only 5 hit points left.
 
-
-
-
-
+## Magic
