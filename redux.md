@@ -81,3 +81,4 @@ Shields reduce the chance of being hit by an attack.
 Damage is equal to the difference between the attack roll minus 8. For example, a chainmail-clad warrior attacks with his longsword a barbarian wearing leather armor and armed with a great axe. Both have fighting skills, so all rolls will be average. The warrior rolls 10, + 3 from her longsword for a total of 13, which is higher than 8 so it hits. Damage should be 13 - 8 = 6, but the barbarian's leather armor reduces that to 5. Now the barbarian has only 5 hit points left.
 
 ## Magic
+Magic-users have a total of 
