@@ -1,5 +1,5 @@
-# Spells & Steel
-A super simplified concept for a medieval fantasy role-playing system
+<img src="https://github.com/dicepencilpaper/864-System/blob/spells_and_steel/spells and steel 3.jpg" />
+A simple concept for a medieval fantasy role-playing system
 by Dice Pencil & Paper
 
 ## Basics
